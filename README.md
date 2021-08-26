@@ -1,5 +1,5 @@
 # [My - Website](https://pandeo.fr)
-> Small work during internship
+> The source of my website base on html5up 
 
 ## File :<br />
 > - [assets](https://github.com/PandeoF1/pandeo.fr/tree/main/conf) -> css | js | fonts <br />
