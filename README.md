@@ -11,4 +11,4 @@
  
 ### Compatibility :
  > - Linux (LAMP) (Debian/Ubuntu)<br />
- > - Windows (WAMP) (Debian/Ubuntu)<br />
+ > - Windows (WAMP)<br />
