@@ -12,3 +12,6 @@
 ### Compatibility :
  > - Linux (LAMP) (Debian/Ubuntu)<br />
  > - Windows (WAMP)<br />
+
+### test.py :
+ > - Use https://pypi.org/project/imgkit/
