@@ -1,3 +1,5 @@
+# sudo apt install python3 python3-pip wkhtmltopdf
+# pip3 install Pillow imgkit
 import imgkit
 from PIL import Image
 import PIL
