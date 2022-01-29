@@ -28,5 +28,5 @@
  > - Linux (LAMP) (Debian/Ubuntu)<br />
  > - Windows (WAMP)<br />
 
-### test.py :
+### update_image.py :
  > - Use https://pypi.org/project/imgkit/
